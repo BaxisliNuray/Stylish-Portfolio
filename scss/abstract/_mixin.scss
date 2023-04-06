@@ -1,0 +1,8 @@
+@mixin hero-button($bgc,$text-color){
+    border-radius: 10px;
+    font-weight: 400;
+    background-color: $bgc;
+    color: $text-color;
+    margin-bottom: 40px;
+    border: none;
+}
